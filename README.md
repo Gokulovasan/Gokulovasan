@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     GitHub Profile README — Gokulovasan
+     GitHub Profile README — Gokulavasan
      Layout: invisible HTML tables + shields.io badges
 ═══════════════════════════════════════════════════════════════ -->
 
@@ -36,7 +36,7 @@
 
 ```python
 class Gokulavasan:
-    name       = "Gokulovasan"
+    name       = "Gokulavasan"
     role       = "Student · Builder · Problem Solver"
     location   = "Chennai, Tamil Nadu 🇮🇳"
     languages  = ["Python", "C++", "JavaScript"]
@@ -265,7 +265,7 @@ Full CRM/ERP system for plastic recycling companies — waste tracking, processi
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/gokulavasan-g">
+<a href="[https://www.linkedin.com/in/gokulavasan-g](https://www.linkedin.com/in/gokulavasan-g-751285355?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 

@@ -35,7 +35,7 @@
 ### 👋 About Me
 
 ```python
-class Gokulovasan:
+class Gokulavasan:
     name       = "Gokulovasan"
     role       = "Student · Builder · Problem Solver"
     location   = "Chennai, Tamil Nadu 🇮🇳"
@@ -261,11 +261,11 @@ Full CRM/ERP system for plastic recycling companies — waste tracking, processi
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:gokulovasan@gmail.com">
+<a href="mailto:gokulav02@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/gokulovasan">
+<a href="https://www.linkedin.com/in/gokulavasan-g">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 

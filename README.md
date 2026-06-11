@@ -16,7 +16,7 @@
 <br/>
 
 <!-- ── PROFILE VIEWS + FOLLOWERS ──────────────────────────────── -->
-<img src="https://komarev.com/ghpvc/?username=Gokulovasan&style=flat-square&color=7F77DD&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Gokulavasan&style=flat-square&color=7F77DD&label=PROFILE+VIEWS" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/Gokulovasan?style=flat-square&color=1D9E75&labelColor=0d1117&label=Followers" />
 
@@ -265,13 +265,13 @@ Full CRM/ERP system for plastic recycling companies — waste tracking, processi
   <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 &nbsp;
-<a href="[https://www.linkedin.com/in/gokulavasan-g](https://www.linkedin.com/in/gokulavasan-g-751285355?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/gokulavasan-g">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 <br/><br/>
 
-> *"Build things that matter. Solve problems that hurt people. Ship fast, iterate faster."*
+> *"Build things that matter. Solve problems that help people. Ship fast, iterate faster."*
 
 <br/>
 
